@@ -6,7 +6,7 @@
 - 🔭 Atualmente estudando **Python, React**
 
 <div>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CassioEgidio&show_icons=true&count_private=true&hide_border=true&title_color=F28241&icon_color=F28241&text_color=F2E9EA&bg_color=0d1117" alt="Amanda github stats"> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CassioEgidio&show_icons=true&count_private=true&hide_border=true&title_color=F28241&icon_color=F28241&text_color=F2E9EA&bg_color=0d1117" > 
   <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioEgidio&layout=compact&count_private=true&hide_border=true&title_color=F28241&text_color=fff&bg_color=0d1117">
 </div>
 
