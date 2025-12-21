@@ -6,7 +6,7 @@
 💻 Focado em **Desenvolvimento Full Stack** e **Tecnologia da Informação**  
 📚 Participante do programa **P-TECH (IBM)**
 
-- 🚀 Experiência com **HTML, CSS, JavaScript, PHP, Java, React, Node.js e bancos de dados**
+- 🚀 Experiência com **HTML, CSS, JavaScript, PHP, Java, Python, React, Node.js e bancos de dados**
 - 🌱 Em constante aprimoramento nas linguagens e frameworks citados
 - 🔍 Interesse em **desenvolvimento web, desenvolvimento de sistemas e soluções tecnológicas**
 
