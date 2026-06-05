@@ -1,7 +1,7 @@
 ## Olá, meu nome é Cássio 👋
 
-🎓 Estudante de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**  
-🎓 Ingresso previsto em **Análise e Desenvolvimento de Sistemas** na **FATEC Zona Leste**, a partir de **fevereiro de 2026**
+🎓 Formada no curso técnico de **Desenvolvimento de Sistemas** na **ETEC Zona Leste**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Zona Leste**
 
 💻 Focado em **Desenvolvimento Full Stack** e **Tecnologia da Informação**  
 📚 Participante do programa **P-TECH (IBM)**
